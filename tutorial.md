@@ -20,10 +20,10 @@ Now that we have a development environment up and running we can make our first 
 
 This command will create a new folder with four files:
 
-create src/app/todo/todo.component.css
-create src/app/todo/todo.component.html
-create src/app/todo/todo.component.spec.ts
-create src/app/todo/todo.component.ts
+create src/app/todo/todo.component.css </br>
+create src/app/todo/todo.component.html </br>
+create src/app/todo/todo.component.spec.ts </br>
+create src/app/todo/todo.component.ts </br>
 
 And it will add the new Todo component to the AppModule:
 
