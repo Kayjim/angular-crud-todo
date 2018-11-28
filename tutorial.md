@@ -48,8 +48,8 @@ This is currently a very static todo form. We need it to be dynamic and take in 
 
 We need to modify these three files below in order to add the CRUD funcitonality to our Angular application.
 
-src/app/todo/todo.service.ts
-src/app/todo/todo.component.ts
-src/app/todo/todo.component.html
+src/app/todo/todo.service.ts </br>
+src/app/todo/todo.component.ts </br>
+src/app/todo/todo.component.html </br>
 
 
